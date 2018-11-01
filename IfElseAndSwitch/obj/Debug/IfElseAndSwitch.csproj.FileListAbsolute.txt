@@ -1,0 +1,6 @@
+c:\Users\fmisx\documents\visual studio 2015\Projects\ForTest\IfElseAndSwitch\bin\Debug\IfElseAndSwitch.exe.config
+c:\Users\fmisx\documents\visual studio 2015\Projects\ForTest\IfElseAndSwitch\obj\Debug\IfElseAndSwitch.csprojResolveAssemblyReference.cache
+c:\Users\fmisx\documents\visual studio 2015\Projects\ForTest\IfElseAndSwitch\bin\Debug\IfElseAndSwitch.exe
+c:\Users\fmisx\documents\visual studio 2015\Projects\ForTest\IfElseAndSwitch\bin\Debug\IfElseAndSwitch.pdb
+c:\Users\fmisx\documents\visual studio 2015\Projects\ForTest\IfElseAndSwitch\obj\Debug\IfElseAndSwitch.exe
+c:\Users\fmisx\documents\visual studio 2015\Projects\ForTest\IfElseAndSwitch\obj\Debug\IfElseAndSwitch.pdb

@@ -1,0 +1,5 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\bin\Release\OperatorTest.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\bin\Release\OperatorTest.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\bin\Release\OperatorTest.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\obj\Release\OperatorTest.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\obj\Release\OperatorTest.pdb

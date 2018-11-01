@@ -1,0 +1,6 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MyReflection\bin\Debug\MyReflection.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MyReflection\bin\Debug\MyReflection.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MyReflection\bin\Debug\MyReflection.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MyReflection\obj\Debug\MyReflection.csprojResolveAssemblyReference.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MyReflection\obj\Debug\MyReflection.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MyReflection\obj\Debug\MyReflection.pdb

@@ -1,0 +1,9 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\bin\Debug\IAsyncTest.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\bin\Debug\IAsyncTest.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\bin\Debug\IAsyncTest.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Debug\IAsyncTest.csprojResolveAssemblyReference.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Debug\IAsyncTest.Form1.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Debug\IAsyncTest.Properties.Resources.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Debug\IAsyncTest.csproj.GenerateResource.Cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Debug\IAsyncTest.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Debug\IAsyncTest.pdb

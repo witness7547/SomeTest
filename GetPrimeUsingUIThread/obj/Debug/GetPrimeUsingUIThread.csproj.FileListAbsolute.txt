@@ -1,0 +1,14 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\bin\Debug\GetPrimeUsingUIThread.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\bin\Debug\GetPrimeUsingUIThread.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\bin\Debug\GetPrimeUsingUIThread.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\MainWindow.g.cs
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\App.g.cs
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread_MarkupCompile.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread_MarkupCompile.lref
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\MainWindow.baml
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread.g.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread.Properties.Resources.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread.csproj.GenerateResource.Cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\GetPrimeUsingUIThread\obj\Debug\GetPrimeUsingUIThread.csprojResolveAssemblyReference.cache

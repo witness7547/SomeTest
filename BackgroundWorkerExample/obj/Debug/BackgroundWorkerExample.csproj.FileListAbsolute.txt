@@ -1,0 +1,9 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\bin\Debug\BackgroundWorkerExample.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\bin\Debug\BackgroundWorkerExample.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\bin\Debug\BackgroundWorkerExample.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.csprojResolveAssemblyReference.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.Form1.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.Properties.Resources.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.csproj.GenerateResource.Cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.pdb

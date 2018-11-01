@@ -1,0 +1,6 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MemoryTest\bin\Debug\MemoryTest.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MemoryTest\bin\Debug\MemoryTest.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MemoryTest\bin\Debug\MemoryTest.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MemoryTest\obj\Debug\MemoryTest.csprojResolveAssemblyReference.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MemoryTest\obj\Debug\MemoryTest.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MemoryTest\obj\Debug\MemoryTest.pdb

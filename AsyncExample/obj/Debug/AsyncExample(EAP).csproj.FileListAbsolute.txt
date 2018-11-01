@@ -1,0 +1,8 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\bin\Debug\AsyncExample.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\bin\Debug\AsyncExample.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\bin\Debug\AsyncExample.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\obj\Debug\AsyncExample(EAP).csprojResolveAssemblyReference.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\obj\Debug\AsyncExample.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\obj\Debug\AsyncExample.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\obj\Debug\AsyncOperationManagerExample.PrimeNumberCalculatorMain.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\AsyncExample\obj\Debug\AsyncExample(EAP).csproj.GenerateResource.Cache

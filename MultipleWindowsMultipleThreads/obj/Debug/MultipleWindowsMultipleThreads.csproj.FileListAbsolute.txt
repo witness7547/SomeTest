@@ -1,0 +1,14 @@
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\bin\Debug\MultipleWindowsMultipleThreads.exe.config
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\bin\Debug\MultipleWindowsMultipleThreads.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\bin\Debug\MultipleWindowsMultipleThreads.pdb
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads.csprojResolveAssemblyReference.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MainWindow.g.cs
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\App.g.cs
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads_MarkupCompile.cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads_MarkupCompile.lref
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MainWindow.baml
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads.g.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads.Properties.Resources.resources
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads.csproj.GenerateResource.Cache
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads.exe
+C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MultipleWindowsMultipleThreads\obj\Debug\MultipleWindowsMultipleThreads.pdb
