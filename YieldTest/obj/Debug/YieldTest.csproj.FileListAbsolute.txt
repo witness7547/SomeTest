@@ -1,6 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\YieldTest\bin\Debug\YieldTest.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\YieldTest\bin\Debug\YieldTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\YieldTest\bin\Debug\YieldTest.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\YieldTest\obj\Debug\YieldTest.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\YieldTest\obj\Debug\YieldTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\YieldTest\obj\Debug\YieldTest.pdb

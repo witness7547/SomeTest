@@ -1,4 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\DBInterface\bin\Debug\DBInterface.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\DBInterface\bin\Debug\DBInterface.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\DBInterface\obj\Debug\DBInterface.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\DBInterface\obj\Debug\DBInterface.pdb

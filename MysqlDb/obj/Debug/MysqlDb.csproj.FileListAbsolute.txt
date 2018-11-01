@@ -1,7 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\bin\Debug\MysqlDb.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\bin\Debug\MysqlDb.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\bin\Debug\DBInterface.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\bin\Debug\DBInterface.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\obj\Debug\MysqlDb.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\obj\Debug\MysqlDb.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\MysqlDb\obj\Debug\MysqlDb.pdb

@@ -1,5 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IfElseAndSwitch\bin\Release\IfElseAndSwitch.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IfElseAndSwitch\bin\Release\IfElseAndSwitch.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IfElseAndSwitch\bin\Release\IfElseAndSwitch.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IfElseAndSwitch\obj\Release\IfElseAndSwitch.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IfElseAndSwitch\obj\Release\IfElseAndSwitch.pdb

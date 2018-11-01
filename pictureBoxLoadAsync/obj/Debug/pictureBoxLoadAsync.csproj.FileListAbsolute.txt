@@ -1,9 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\bin\Debug\pictureBoxLoadAsync.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\bin\Debug\pictureBoxLoadAsync.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\bin\Debug\pictureBoxLoadAsync.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\obj\Debug\pictureBoxLoadAsync.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\obj\Debug\pictureBoxLoadAsync.Form1.resources
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\obj\Debug\pictureBoxLoadAsync.Properties.Resources.resources
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\obj\Debug\pictureBoxLoadAsync.csproj.GenerateResource.Cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\obj\Debug\pictureBoxLoadAsync.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\pictureBoxLoadAsync\obj\Debug\pictureBoxLoadAsync.pdb

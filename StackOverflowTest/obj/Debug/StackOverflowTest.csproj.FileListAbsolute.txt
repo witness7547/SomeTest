@@ -1,6 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\StackOverflowTest\bin\Debug\StackOverflowTest.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\StackOverflowTest\bin\Debug\StackOverflowTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\StackOverflowTest\bin\Debug\StackOverflowTest.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\StackOverflowTest\obj\Debug\StackOverflowTest.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\StackOverflowTest\obj\Debug\StackOverflowTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\StackOverflowTest\obj\Debug\StackOverflowTest.pdb

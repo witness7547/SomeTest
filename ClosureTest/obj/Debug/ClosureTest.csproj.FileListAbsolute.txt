@@ -1,6 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ClosureTest\bin\Debug\ClosureTest.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ClosureTest\bin\Debug\ClosureTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ClosureTest\bin\Debug\ClosureTest.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ClosureTest\obj\Debug\ClosureTest.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ClosureTest\obj\Debug\ClosureTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ClosureTest\obj\Debug\ClosureTest.pdb

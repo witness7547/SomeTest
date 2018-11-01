@@ -1,7 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\bin\Debug\SqlServerDb.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\bin\Debug\SqlServerDb.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\bin\Debug\DBInterface.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\bin\Debug\DBInterface.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\obj\Debug\SqlServerDb.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\obj\Debug\SqlServerDb.dll
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\SqlServerDb\obj\Debug\SqlServerDb.pdb

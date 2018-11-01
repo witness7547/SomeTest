@@ -1,8 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\bin\Release\IAsyncTest.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\bin\Release\IAsyncTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\bin\Release\IAsyncTest.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Release\IAsyncTest.Form1.resources
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Release\IAsyncTest.Properties.Resources.resources
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Release\IAsyncTest(APM).csproj.GenerateResource.Cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Release\IAsyncTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\IAsyncTest\obj\Release\IAsyncTest.pdb

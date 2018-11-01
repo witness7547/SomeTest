@@ -1,6 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ThreadPoolExamples\bin\Debug\ThreadPoolExamples.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ThreadPoolExamples\bin\Debug\ThreadPoolExamples.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ThreadPoolExamples\bin\Debug\ThreadPoolExamples.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ThreadPoolExamples\obj\Debug\ThreadPoolExamples.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ThreadPoolExamples\obj\Debug\ThreadPoolExamples.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\ThreadPoolExamples\obj\Debug\ThreadPoolExamples.pdb

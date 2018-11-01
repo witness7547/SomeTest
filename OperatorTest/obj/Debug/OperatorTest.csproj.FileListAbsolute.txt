@@ -1,6 +1,0 @@
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\bin\Debug\OperatorTest.exe.config
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\bin\Debug\OperatorTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\bin\Debug\OperatorTest.pdb
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\obj\Debug\OperatorTest.csprojResolveAssemblyReference.cache
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\obj\Debug\OperatorTest.exe
-C:\Users\fmisx\Documents\Visual Studio 2015\Projects\ForTest\OperatorTest\obj\Debug\OperatorTest.pdb
